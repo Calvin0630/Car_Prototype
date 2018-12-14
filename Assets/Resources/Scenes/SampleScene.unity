@@ -349,8 +349,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1178403cb993c5a43956fb487b4701af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxSpeed: 50
+  maxSpeed: 100
   engineForce: 20
+  carLength: 40
 --- !u!54 &536874469
 Rigidbody:
   m_ObjectHideFlags: 0
